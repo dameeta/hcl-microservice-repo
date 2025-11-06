@@ -1,0 +1,3 @@
+[submodule "hcl-microservice-repo"]
+	path = hcl-microservice-repo
+	url = https://github.com/dameeta/hcl-microservice-repo.git
